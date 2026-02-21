@@ -3,4 +3,4 @@ This project analyses two years of Henry Bikes ride and cost data to determine a
 
 Using raw CSV data, SQL transformation logic and an interactive Power BI dashboard, the project evaluates rider trends, cost structure, price sensitivity and the financial impact of potential price changes. The findings support a recommended price increase in the range of 10 to 15 percent, along with a strategy for segment-based pricing and close performance monitoring. The repository provides all analysis steps and visual outputs needed for transparent review and further decision-making.
 
-This is my first project on GitHub, inspired by a demo from Absent Data. It features data transformation in SQL and data visualisation in Power BI. 
+This is my first project on GitHub, inspired by a demo from Absent Data.
